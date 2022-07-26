@@ -1,0 +1,4 @@
+fazer um codigo que leia a media final
+dos alunos de uma turma e encontre a media
+da turma. A quantidade de alunos e passada via
+usuario

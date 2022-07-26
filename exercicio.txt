@@ -1,0 +1,4 @@
+fazer um codigo que leia o nome de um aluno
+e as notas de duas avaliações distintas. Calcular a media desse aluno
+e de acordo coma media imprimir se ele esta aproado ou reprovado.
+considere a média 7. float
